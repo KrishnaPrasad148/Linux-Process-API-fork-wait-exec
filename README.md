@@ -26,29 +26,17 @@ Test the C Program for the desired output.
 ## C Program to print process ID and parent Process ID using Linux API system calls
 
 
-
-
-
-
-
-
-
-
-
-
-
+![alt text](ex01-1.png)
 
 
 
 ##OUTPUT
 
 
+![alt text](ex01-2.png)
 
 
-
-
-
-
+![alt text](ex01-3.png)
 
 
 
@@ -60,20 +48,14 @@ Test the C Program for the desired output.
 
 
 
-
-
-
-
-
+![alt text](ex02-1.png)
 
 
 
 
 ##OUTPUT
 
-
-
-
+![alt text](ex02-2.png)
 
 
 
@@ -82,25 +64,7 @@ Test the C Program for the desired output.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![alt text](ex03-1.png)
 
 
 
@@ -109,17 +73,7 @@ Test the C Program for the desired output.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+![alt text](ex03-2.png)
 
 
 
